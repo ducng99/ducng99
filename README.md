@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tom
+- 👀 I’m interested in Software, Web and Game Development
+- 🌱 I’m currently learning 3D modelling.
+- 📫 How to reach me:
+  - Email: tom@ducng.dev
