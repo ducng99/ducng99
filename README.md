@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning 3D modelling.
 - 📫 How to reach me:
   - Email: tom@ducng.dev
+  - Linkedin: https://www.linkedin.com/in/ducng99/
