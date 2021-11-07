@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Tom
-- 👀 I’m interested in Software, Web and Game Development
-- 🌱 I’m currently learning 3D modelling.
+- 👀 I’m a Software, Web and Game Developer.
+- 🌱 I’m currently learning more about cryptography for my E2EE project.
 - 📫 How to reach me:
   - Email: tom@ducng.dev
   - Linkedin: https://www.linkedin.com/in/ducng99/
+  - GitHub: Well, you are here!
