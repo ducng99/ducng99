@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Tom
 - 👀 I’m a Full-stack Developer. Originally a software developer but you know, life ¯\\\_(ツ)_/¯
 - 🌱 Things I want to know more:
-  - Rust
+  - ~~Rust~~ (< c++)
   - Electron
   - React Native
   - SurrealDB
