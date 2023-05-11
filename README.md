@@ -2,6 +2,8 @@
 - 👀 I’m a Full-stack Developer. Originally a software developer but you know, life ¯\\\_(ツ)_/¯
 - 🌱 Things I want to know more:
   - ~~Rust~~ (< c++)
+  - Remix
+  - Next.js 13
   - Electron
   - React Native
   - SurrealDB
