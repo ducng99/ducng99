@@ -20,4 +20,4 @@
 - 📫 How to reach me:
   - Email: tom@ducng.dev
   - Linkedin: https://www.linkedin.com/in/ducng99/
-  - GitHub: Well umm... [here?](/#)
+  - GitHub: Well umm...
