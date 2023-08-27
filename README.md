@@ -1,18 +1,23 @@
-- 👋 Hi there, I’m Tom
-- 👀 I’m a Full-stack Developer. Love making tools, games and tinkering with new tech!
-- 🌱 Things I want to know more:
-  - ~~Rust~~ (< C++)
+- 👋 Hi there, I’m Tom, Thomas, Duc, Duck, Shrimp.
+- 👀 So who am I... A Full-stack Developer, who loves making tools, games and tinkering with new techologies in the wild.
+- ⚒ Acitve TODO list:
+  - [x] Install Neovim
+  - [ ] Learn VimMotion
+  - [ ] Write code blazingly fast
+
+- 🌱 Other things for future me to dig into:
   - Go
+  - Bun
   - Remix
+  - Redis
   - Electron
   - React Native
   - SurrealDB
-  - Bun
   - Tauri
-  - Redis
   - D3.js
-  - \[...[https://www.youtube.com/c/Fireship/videos](https://www.youtube.com/c/Fireship/videos)]
+  - ~~Rust~~ < C++ < Go
+  - \[...[Fireship_videos](https://www.youtube.com/@Fireship/videos)]
 - 📫 How to reach me:
   - Email: tom@ducng.dev
   - Linkedin: https://www.linkedin.com/in/ducng99/
-  - GitHub: Well, you are here!
+  - GitHub: Well umm... [here?](/#)
