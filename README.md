@@ -2,7 +2,7 @@
 - 👀 So who am I... A Full-stack Developer, who loves making tools, games and tinkering with new techologies in the wild.
 - ⚒ Acitve TODO list:
   - [x] Install Neovim
-  - [ ] Learn VimMotion
+  - [ ] ⌛ Learn VimMotion
   - [ ] Write code blazingly fast
 
 - 🌱 Other things for future me to dig into:
