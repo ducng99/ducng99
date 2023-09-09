@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Tom, or Duc, Duck, [Shrimp 🦐](https://translate.google.com/?sl=vi&tl=en&text=t%C3%B4m).
+- 👋 Hi there, I’m Tom, or Duc, [Shrimp 🦐](https://translate.google.com/?sl=vi&tl=en&text=t%C3%B4m).
 - 👀 So who am I... A Full-stack Developer, who loves making tools, games and tinkering with new techologies in the wild.
 - ⚒ Active TODO list:
   - [x] Install Neovim
@@ -9,8 +9,8 @@
 
 <table>
   <tbody>
-    <tr><td>1.</td><td colspan="2"><a href="https://go.dev" target="_blank">Go</a></td></tr>
-    <tr><td>2.</td><td><a href="https://bun.sh" target="_blank">Bun</a></td><td><a href="https://remix.run" target="_blank">Remix</a></td></tr>
+    <tr><td>1.</td><td colspan="2"><a href="https://go.dev">Go</a></td></tr>
+    <tr><td>2.</td><td><a href="https://bun.sh">Bun</a></td><td><a href="https://remix.run">Remix</a></td></tr>
     <tr><td>3.</td><td colspan="2">Redis</td></tr>
     <tr><td>4.</td><td><s>Electron</s></td><td>React Native</td></tr>
     <tr><td>5.</td><td colspan="2">SurrealDB</td></tr>
