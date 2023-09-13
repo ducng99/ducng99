@@ -9,7 +9,7 @@
 
 <table>
   <tbody>
-    <tr><td>1.</td><td colspan="2"><a href="https://go.dev">Go</a></td></tr>
+    <tr><td>1.</td><td><a href="https://go.dev">Go</a></td><td><a href="https://ziglang.org">Zig</a></td></tr>
     <tr><td>2.</td><td><a href="https://bun.sh">Bun</a></td><td><a href="https://remix.run">Remix</a></td></tr>
     <tr><td>3.</td><td colspan="2">Redis</td></tr>
     <tr><td>4.</td><td><s>Electron</s></td><td>React Native</td></tr>
