@@ -6,7 +6,7 @@
 
 ⚒ My current TODO list:
 - [x] Install Neovim
-- [ ] Learn VimMotion (40% ⌛)
+- [ ] Learn VimMotion (60% ⌛)
 - [ ] Write code blazingly fast
 
 🌱 Things for future me to dig into:
