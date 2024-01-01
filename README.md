@@ -33,5 +33,5 @@
 
 <span>
   <img height="200" src="https://github-readme-stats-ducng99.vercel.app/api?username=ducng99&show_icons=true&custom_title=Stats&rank_icon=github&theme=tokyonight" alt="You might want to refresh..." />
-  <img height="200" src="https://github-readme-stats-ducng99.vercel.app/api/top-langs/?username=ducng99&exclude_repo=KDU,MemoryModule,GoldDigger-CPP,Dungeon,CSGO-Internal&langs_count=8&hide=cmake&layout=compact&theme=tokyonight" alt="You might want to refresh..." />
+  <img height="200" src="https://github-readme-stats-ducng99.vercel.app/api/top-langs/?username=ducng99&exclude_repo=KDU,MemoryModule,GoldDigger-CPP,Dungeon,CSGO-Internal,CSGO-External,CSGO-Bot&langs_count=8&hide=cmake&layout=compact&theme=tokyonight" alt="You might want to refresh..." />
 </span>
