@@ -6,21 +6,22 @@
 
 ⚒ My current TODO list:
 - [x] Install Neovim
-- [ ] Learn VimMotion (80% ⌛)
-- [ ] Write code blazingly fast
+- [x] Learn VimMotion
+- [ ] Write code blazingly fast (⌛)
 
 🌱 Things for future me to dig into:
 
 <table>
+  <thead>
+    <tr><th>Priority</th><th colspan="3">things</th></tr>
   <tbody>
-    <tr><td>1.</td><td><a href="https://go.dev"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a></td><td><a href="https://ziglang.org"><img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white" alt="Zig" /></a></td></tr>
-    <tr><td>2.</td><td><a href="https://bun.sh"><img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" /></a></td><td><a href="https://remix.run"><img src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" /></a></td></tr>
-    <tr><td>3.</td><td colspan="2"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></td></tr>
-    <tr><td>4.</td><td><img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron" /></td><td><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" /></td></tr>
-    <tr><td>5.</td><td colspan="2"><img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white" alt="SurrealDB" /></td></tr>
-    <tr><td>6.</td><td><img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" alt="Tauri" /></td><td>D3.js</td></tr>
-    <tr><td>7.</td><td colspan="2"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /> &lt; C++ &lt; Go</td></tr>
-    <tr><td colspan="3"><code>...<a href="https://www.youtube.com/@Fireship/videos">Fireship_videos</a></code></td></tr>
+    <tr><td>1.</td><td><a href="https://go.dev"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a></td><td><a href="https://ziglang.org"><img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white" alt="Zig" /></a></td><td><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></td></tr>
+    <tr><td>2.</td><td><a href="https://bun.sh"><img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" /></a></td><td><a href="https://remix.run"><img src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" /></a></td><td></td></tr>
+    <tr><td>3.</td><td colspan="3"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></td></tr>
+    <tr><td>4.</td><td><img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" alt="Tauri" /></td><td><img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron" /></td><td></td></tr>
+    <tr><td>5.</td><td colspan="3"><img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white" alt="SurrealDB" /></td></tr>
+    <tr><td>6.</td><td><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" /></td><td>D3.js</td><td></td></tr>
+    <tr><td colspan="4"><code>...<a href="https://www.youtube.com/@Fireship/videos">Fireship_videos</a></code></td></tr>
   </tbody>
 </table>
 
