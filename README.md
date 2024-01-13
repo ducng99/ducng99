@@ -26,8 +26,8 @@
 </table>
 
 📫 How to reach me:
-- Email: tom@ducng.dev
-- Linkedin: https://www.linkedin.com/in/ducng99/
+- Email: tom@tomng.dev
+- Linkedin: https://www.linkedin.com/in/tomngdev/
 - GitHub: Well umm...
 
 # Some silly stats
