@@ -1,13 +1,14 @@
 # About me
 
-👋 Hi there, I’m Tom, or Duc, [Shrimp 🦐](https://translate.google.com/?sl=vi&tl=en&text=t%C3%B4m).
+👋 Hi there, I’m Tom, or Duc, [Shrimp 🦐](https://translate.google.com/?sl=vi&tl=en&text=t%C3%B4m).  
+A Full-stack Developer, who loves making tools, games and tinkering with new techologies in the wild.
 
-👀 A Full-stack Developer, who loves making tools, games and tinkering with new techologies in the wild.
-
-⚒ My current TODO list:
+My current TODO list:
 - [x] Install Neovim
 - [x] Learn VimMotion
-- [ ] Write code blazingly fast (⌛)
+- [x] Write code ~~blazingly~~ fast
+
+- [ ] Write all things in Go (except frontend) (⌛)
 
 🌱 Things for future me to dig into:
 
@@ -25,12 +26,7 @@
   </tbody>
 </table>
 
-📫 How to reach me:
-- Email: tom@tomng.dev
-- Linkedin: https://www.linkedin.com/in/tomngdev/
-- GitHub: Well umm...
-
-# Some silly stats
+## Some silly stats
 
 <span>
   <img height="200" src="https://github-readme-stats-ducng99.vercel.app/api?username=ducng99&show_icons=true&custom_title=Stats&rank_icon=github&theme=tokyonight" alt="You might want to refresh..." />
