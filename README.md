@@ -25,7 +25,5 @@ My current TODO list:
 
 ## Some silly stats
 
-<span>
-  <img height="200" src="https://raw.githubusercontent.com/ducng99/ducng99/refs/heads/main/profile/stats.svg" alt="You might want to refresh..." />
-  <img height="200" src="https://raw.githubusercontent.com/ducng99/ducng99/refs/heads/main/profile/top-langs.svg" alt="You might want to refresh..." />
-</span>
+![](./profile/stats.svg)
+![](./profile/top-langs.svg)
