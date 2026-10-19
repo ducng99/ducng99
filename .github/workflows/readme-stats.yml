@@ -7,12 +7,12 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&custom_title=Stats&rank_icon=github&theme=tokyonight
@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: Generate language card
-        uses: stats-organization/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&exclude_repo=KDU,MemoryModule,GoldDigger-CPP,Dungeon,CSGO-Internal,CSGO-External,CSGO-Bot&langs_count=8&hide=cmake&layout=compact&theme=tokyonight
